@@ -6,6 +6,7 @@
 */03_first_vm_code/.tfstate.*
 */03_first_vm_code/.terraform.tfstate.*
 *03_first_vm_code/.terraform.tfstate.lock.info
+*/.terraform.tfstate
 
 # Crash log files
 crash.log
